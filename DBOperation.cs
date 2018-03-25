@@ -5,7 +5,8 @@ using System.Web;
 using System.Data;
 using System.Data.SqlClient;
 using System.Web.UI.WebControls;
-namespace SoftwareSalseAndServiceDesk
+
+namespace [namespacename]
 {
     public class DBOperation
     {
